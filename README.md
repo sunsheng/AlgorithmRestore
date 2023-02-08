@@ -26,3 +26,6 @@ adb shell
 echo "service.adb.tcp.port=5555" >> /system/build.prop
 reboot
 ```
+
+
+## [从原理到实战，全面总结 Android HTTPS 抓包](https://cloud.tencent.com/developer/article/2123803)
